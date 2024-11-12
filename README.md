@@ -1,4 +1,4 @@
-# Projeto Final de DEVOPS - # app-pf-controle-vendas
+# Projeto Final de DEVOPS - app-pf-controle-vendas
 
 # GRUPO 4
 - Carlos Henrique Bonfim da Silva - RA: 2301776
