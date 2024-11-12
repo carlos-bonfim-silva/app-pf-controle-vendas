@@ -1,4 +1,4 @@
-import pymongo 
+import pymongo
 
 url_database = "mongodb+srv://carlosbonfim:xaY26bTNUk1HddGf@devops.vcnyn.mongodb.net/"
 banco = pymongo.MongoClient(url_database)
